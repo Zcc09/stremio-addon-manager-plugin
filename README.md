@@ -5,5 +5,7 @@ This is an implementation of redd-ravenn's fork of pancake3000's stremio addon m
 
 ## Acknowledgements
 pancake3000 - Stremio Addon Manager
+
 redd-ravenn - Reordering and deletion functionalities
+
 REVENGE977 - Stremio Enhanced Client
