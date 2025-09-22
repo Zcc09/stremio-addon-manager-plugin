@@ -1,6 +1,6 @@
 /**
- * @name Addon Manager
- * @description Reorganize and rename your Stremio addons from the client. Themed and seamless.
+ * @name Stremio Addon Manager
+ * @description Reorganize and rename your Stremio addons from the client.
  * @updateUrl https://raw.githubusercontent.com/Zcc09/stremio-addon-manager-plugin/refs/heads/main/stremio-addon-manager.plugin.js
  * @version 1.8.1
  * @author Zcc09
@@ -10,10 +10,10 @@
 	"use strict";
 
 	// --- METADATA ---
-	const PLUGIN_NAME = "Addon Manager";
+	const PLUGIN_NAME = "Stremio Addon Manager";
 	const STREMIO_API_BASE = "https://api.strem.io/api/";
-	const THEME_PURPLE = "#7b5bf5"; // Custom purple
-	const THEME_GREEN = "#22b365"; // Custom green
+	const THEME_PURPLE = "#7b5bf5";
+	const THEME_GREEN = "#22b365";
 
 	// --- STATE ---
 	let stremioAuthKey = "";
@@ -475,4 +475,5 @@
 	// --- INITIALIZATION ---
 	initUIManager();
 })();
+
 
