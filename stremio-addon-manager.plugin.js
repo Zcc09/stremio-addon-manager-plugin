@@ -1,7 +1,7 @@
 /**
  * @name Addon Manager
  * @description Reorganize and rename your Stremio addons from the client. Themed and seamless.
- * @updateUrl https://raw.githubusercontent.com/Zcc09/stremio-addon-manager-plugin/main/stremio-addon-manager.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Zcc09/stremio-addon-manager-plugin/refs/heads/main/stremio-addon-manager.plugin.js
  * @version 1.8.1
  * @author Zcc09
  */
@@ -475,3 +475,4 @@
 	// --- INITIALIZATION ---
 	initUIManager();
 })();
+
